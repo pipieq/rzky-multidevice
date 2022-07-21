@@ -154,10 +154,10 @@ module.exports = handler = async (m, conn, map) => {
 							showAdAttribution: true,
 							body:
 								config.namebot +
-								" multi-device whatsapp bot using JavaScript and made by " +
+								" multi-device whatsapp bot using JavaScript and di sponsori oleh " +
 								config.ownername,
 							thumbnail: await conn.getBuffer(config.thumb),
-							sourceUrl: "https://github.com/Rizky878/rzky-multidevice/",
+							sourceUrl: "gofood.com",
 						},
 				  })
 				: "";
