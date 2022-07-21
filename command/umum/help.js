@@ -108,9 +108,9 @@ ${
 					templateButtons: [
 						{ urlButton: { displayText: "Shortlink", url: "https://sl.rzkyfdlh.tech" } },
 						{ urlButton: { displayText: "Downloader", url: "https://down.rzkyfdlh.tech" } },
-						{ quickReplyButton: { displayText: "Script Bot📑", id: "#script" } },
-						{ quickReplyButton: { displayText: "Changelog📋", id: "#changelog" } },
-						{ quickReplyButton: { displayText: "Dashboard📊", id: "#db" } },
+						{ quickReplyButton: { displayText: "Script Bot", id: "#script" } },
+						{ quickReplyButton: { displayText: "Changelog", id: "#changelog" } },
+						{ quickReplyButton: { displayText: "Dashboard", id: "#db" } },
 					],
 				},
 				{ quoted: msg }
